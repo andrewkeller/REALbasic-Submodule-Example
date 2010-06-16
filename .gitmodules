@@ -1,0 +1,3 @@
+[submodule "RB Common KFS BSD"]
+	path = RB Common KFS BSD
+	url = git://github.com/andrewkeller/REALbasic-Common-KFS-BSD.git
