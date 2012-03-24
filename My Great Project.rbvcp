@@ -1,5 +1,6 @@
 Type=Desktop
-RBProjectVersion=2010.03
+RBProjectVersion=2011.042
+MinIDEVersion=20070100
 Class=App;App.rbbas;&h83FCCB5;&h0;false
 Window=Window1;Window1.rbfrm;&h1498C4F4;&h0;false
 MenuBar=MenuBar1;MenuBar1.rbmnu;&h39AABB62;&h0;false
@@ -84,3 +85,4 @@ OSXBundleID=
 DebuggerCommandLine=
 UseGDIPlus=False
 UseBuildsFolder=True
+IsWebProject=False
